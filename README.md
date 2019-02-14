@@ -1,2 +1,1 @@
-# mailing
-Mailing
+# mailing (foundation+gulp+scss)
